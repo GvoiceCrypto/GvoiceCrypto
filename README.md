@@ -1,4 +1,4 @@
-Gvoice Crypto
+Senate p
 - 👀 I’m interested in GitHub 
 - 🌱 I’m currently learning web design 
 - 💞️ I’m looking to collaborate on GitHub 
@@ -7,6 +7,6 @@ Gvoice Crypto
 - ⚡ Fun fact: ...
 
 <!---
-GvoiceCrypto/GvoiceCrypto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senate P is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
