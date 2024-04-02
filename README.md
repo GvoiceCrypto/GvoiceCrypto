@@ -1,4 +1,4 @@
-Senate p
+Uyo-Obong Esu 
 - 👀 I’m interested in GitHub 
 - 🌱 I’m currently learning web design 
 - 💞️ I’m looking to collaborate on GitHub 
